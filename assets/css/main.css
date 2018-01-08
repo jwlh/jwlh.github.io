@@ -1661,7 +1661,7 @@
 		text-align: center;
 	}
 
-		
+
 
 		header.special:before {
 			left: 0;
@@ -1826,7 +1826,7 @@
 			border: 0;
 			border-radius: 100%;
 			display: inline-block;
-			font-size: 1.25em;
+			font-size: 2em;
 			height: 2.25em;
 			left: 0;
 			line-height: 2.25em;
