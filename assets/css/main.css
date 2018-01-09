@@ -1678,7 +1678,14 @@
 		header.special h2 + p {
 			margin-bottom: 0;
 			padding-top: 1.5em;
-		}
+  		}
+
+    header.special p {
+      text-align: left;
+      margin-left: 10%;
+      margin-right: 10%;
+    }
+
 
 		header.special .icon {
 			cursor: default;
@@ -2396,6 +2403,10 @@
 		text-align: center;
 	}
 
+    #banner .logo {
+      width: 70%;
+    }
+
 		#banner .inner {
 			-moz-animation: reveal-banner 1s 0.25s ease-in-out;
 			-webkit-animation: reveal-banner 1s 0.25s ease-in-out;
@@ -2459,6 +2470,8 @@
 		padding: 7em 0;
 	}
 
+
+
 		#main > :last-child {
 			margin-bottom: 0;
 		}
@@ -2474,6 +2487,7 @@
 				padding-top: 0;
 				margin-top: 0;
 			}
+
 
 	body.index #main {
 		padding-top: 5em;
@@ -2715,6 +2729,7 @@
 
 				header.special h2 + p {
 					padding-top: 1.25em;
+
 				}
 
 		/* Section/Article */
