@@ -1644,6 +1644,10 @@
 		padding: 1em 0 1em 2em;
 	}
 
+  p {
+    text-align: justify;
+  }
+
 /* Section/Article */
 
 	section.special, article.special {
@@ -2577,6 +2581,10 @@
 				line-height: 1.5em;
 			}
 
+      p {
+				text-align: justify;
+			}
+
 		/* Section/Article */
 
 			header.major {
@@ -2635,6 +2643,10 @@
 				font-size: 13pt;
 				letter-spacing: 0.025em;
 				line-height: 1.5em;
+			}
+
+      p {
+				text-align: justify;
 			}
 
 		/* Section/Article */
@@ -2729,8 +2741,11 @@
 
 				header.special h2 + p {
 					padding-top: 1.25em;
-
 				}
+
+      p {
+  				text-align: justify;
+  		}
 
 		/* Section/Article */
 
