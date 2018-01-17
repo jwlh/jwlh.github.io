@@ -1644,15 +1644,16 @@
 		padding: 1em 0 1em 2em;
 	}
 
-  p {
-    text-align: justify;
-  }
 
 /* Section/Article */
 
 	section.special, article.special {
 		text-align: center;
 	}
+
+  section.p {
+    text-align:justify;
+  }
 
 	header.major {
 		padding-bottom: 2em;
@@ -2581,9 +2582,7 @@
 				line-height: 1.5em;
 			}
 
-      p {
-				text-align: justify;
-			}
+
 
 		/* Section/Article */
 
@@ -2645,9 +2644,6 @@
 				line-height: 1.5em;
 			}
 
-      p {
-				text-align: justify;
-			}
 
 		/* Section/Article */
 
@@ -2743,9 +2739,6 @@
 					padding-top: 1.25em;
 				}
 
-      p {
-  				text-align: justify;
-  		}
 
 		/* Section/Article */
 
