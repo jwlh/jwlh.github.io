@@ -1648,11 +1648,11 @@
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: center;
+		text-align: left;
 	}
 
   section.p {
-    text-align:justify;
+    text-align:left;
   }
 
 	header.major {
